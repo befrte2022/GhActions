@@ -38,4 +38,4 @@ jobs:
           echo Is git installed
           git --version
           echo Is GO lang installed
-          go -version
+          go version
