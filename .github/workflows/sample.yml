@@ -39,3 +39,4 @@ jobs:
           git --version
           echo Is GO lang installed
           go version
+          go run Helloworld.go
